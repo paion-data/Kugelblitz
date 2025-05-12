@@ -1,5 +1,5 @@
 /**
- * Copyright 2025 Jiaqi Liu. All rights reserved.
+ * Copyright 2025 Paion Data. All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -56,7 +56,7 @@ const FeatureList: FeatureItem[] = [
             id="homepage.feature.arango"
             values={{
               arango: (
-                  <Link to="https://arango.qubitpi.org/stable/">
+                  <Link to="https://arango.paion-data.dev/stable/">
                     <Translate id="homepage.feature.arango.link">
                       ArangoDB
                     </Translate>
@@ -78,7 +78,7 @@ const FeatureList: FeatureItem[] = [
             id="homepage.feature.opensource"
             values={{
               github: (
-                  <Link to="https://github.com/QubitPi/Kugelblitz">
+                  <Link to="https://github.com/paion-data/Kugelblitz">
                     <Translate id="homepage.feature.opensource.github">
                       Github
                     </Translate>

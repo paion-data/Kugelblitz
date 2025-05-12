@@ -1,5 +1,5 @@
 /*
- * Copyright 2025 Jiaqi Liu. All rights reserved.
+ * Copyright 2025 Paion Data. All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.qubitpi.kugelblitz.arango;
+package com.paiondata.kugelblitz.arango;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -36,7 +36,7 @@ import java.util.Map;
 /**
  * {@link AbstractRestService} abstracts away the ArangoDB REST API request implementation.
  * <p>
- * See <a href="https://arango.qubitpi.org/stable/develop/http-api/">ArangoDB documentation</a> for more information.
+ * See <a href="https://arango.paion-data.dev/stable/develop/http-api/">ArangoDB documentation</a> for more information.
  */
 abstract class AbstractRestService {
 
@@ -186,7 +186,7 @@ abstract class AbstractRestService {
     /**
      * Sends an authentication request to Arango auth endpoint and returns a JWT token.
      * <p>
-     * See <a href="https://arango.qubitpi.org/stable/develop/http-api/authentication/">ArangoDB documentation</a> for
+     * See <a href="https://arango.paion-data.dev/stable/develop/http-api/authentication/">ArangoDB documentation</a> for
      * more info
      *
      * @return a string representing the JWT token
