@@ -22,7 +22,7 @@ const config: Config = {
   tagline: 'Webservice with first-class support for Graph Database',
   favicon: 'img/favicon.ico',
 
-  url: 'https://kugelblitz.paion-data.dev',
+  url: 'https://kugelblitz.paion-data.com',
   baseUrl: '/',
 
   organizationName: 'paion-data',
@@ -72,7 +72,7 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: "https://kugelblitz.paion-data.dev/apidocs",
+          href: "https://kugelblitz.paion-data.com/apidocs",
           label: "API",
           position: "left",
         },
