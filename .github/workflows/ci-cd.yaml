@@ -28,7 +28,7 @@ jobs:
       contents: write
       actions: write
     with:
-      cname: kugelblitz.paion-data.dev
+      cname: kugelblitz.paion-data.com
       docker-image-name: kugelblitz
     secrets:
       github-token: ${{ secrets.GITHUB_TOKEN }}
