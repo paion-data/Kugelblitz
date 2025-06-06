@@ -41,7 +41,7 @@ can be found at [![DeepWiki](https://img.shields.io/badge/DeepWiki-QubitPi%2FKug
 🚀 Quick Start
 --------------
 
-Start a production quality service at [kugelblitz.qubitpi.org](https://kugelblitz.paion-data.dev/docs/intro).
+Start a production quality service at [kugelblitz.qubitpi.org](https://kugelblitz.paion-data.com/docs/intro).
 
 License
 -------
