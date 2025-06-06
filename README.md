@@ -40,7 +40,7 @@ For this reason, Kugelblitz is suitable for a microservice architecture.
 🚀 Quick Start
 --------------
 
-Start a production quality service at [kugelblitz.qubitpi.org](https://kugelblitz.paion-data.dev/docs/intro).
+Start a production quality service at [kugelblitz.qubitpi.org](https://kugelblitz.paion-data.com/docs/intro).
 
 License
 -------
