@@ -186,8 +186,8 @@ abstract class AbstractRestService {
     /**
      * Sends an authentication request to Arango auth endpoint and returns a JWT token.
      * <p>
-     * See <a href="https://arango.paion-data.dev/stable/develop/http-api/authentication/">ArangoDB documentation</a> for
-     * more info
+     * See <a href="https://arango.paion-data.dev/stable/develop/http-api/authentication/">ArangoDB documentation</a>
+     * for more info
      *
      * @return a string representing the JWT token
      */
