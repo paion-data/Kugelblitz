@@ -40,7 +40,7 @@ Internationalization
 --------------------
 
 When Docusaurus meta config has been updated, its corresponding i18n can be
-[auto detected and configured](https://docusaurus.qubitpi.org/docs/i18n/tutorial#translate-plugin-data) with
+[auto detected and configured](https://docusaurus.io/docs/i18n/tutorial#translate-plugin-data) with
 
 ```console
 yarn write-translations --locale de
