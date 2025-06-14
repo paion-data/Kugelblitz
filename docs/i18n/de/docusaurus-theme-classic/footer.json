@@ -13,22 +13,22 @@
   },
   "link.item.label.ArangoDB": {
     "message": "ArangoDB",
-    "description": "The label of footer link with label=ArangoDB linking to https://arango.qubitpi.org/stable/"
+    "description": "The label of footer link with label=ArangoDB linking to https://arango.paion-data.dev/stable/"
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/QubitPi/Kugelblitz"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/paion-data/Kugelblitz"
   },
   "link.item.label.Jiaqi Liu": {
     "message": "Jiaqi Liu",
     "description": "The label of footer link with label=Jiaqi Liu linking to https://github.com/QubitPi"
   },
-  "link.item.label.Jiaqi's Blog": {
-    "message": "Jiaqi's Blog",
-    "description": "The label of footer link with label=Jiaqi's Blog linking to https://leadership.qubitpi.org/"
-  },
   "copyright": {
     "message": "Copyright © 2025 Jiaqi Liu. Erstellt mit Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.item.label.Paion Data": {
+    "message": "Paion Data",
+    "description": "The label of footer link with label=Paion Data linking to https://paion-data.com/"
   }
 }

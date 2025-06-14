@@ -34,7 +34,7 @@ Internationalisierung
 --------------------
 
 Nach der Aktualisierung der Docusaurus-Metakonfiguration kann die entsprechende i18n-Datei mit folgendem Befehl
-[automatisch erkannt und konfiguriert](https://docusaurus.qubitpi.org/docs/i18n/tutorial#translate-plugin-data) werden:
+[automatisch erkannt und konfiguriert](https://docusaurus.io/docs/i18n/tutorial#translate-plugin-data) werden:
 
 ```console
 yarn write-translations --locale de
